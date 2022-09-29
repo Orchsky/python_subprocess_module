@@ -1,0 +1,17 @@
+09/27/2022 Tuesday 
+
+Suprocess module:
+
+1. Why subprocess module: It overcomes the limitation of OS module. In OS module command output cannot be saved. 
+2. Linux/Unix running processes: ps aux, top/htop 
+3. Don't use SHELL=True if really necesarry. It may lead to security leak. 
+4. If Shell=False need to put command as LIST 
+5. If Shell=True need to put command as String
+
+IN this group 3 nationalities: Azerbaijan, Turkey and Ukraine. Communicate through ENGLISH
+Why we don't use Polish language, why not Russian, why not Turkish 
+
+API is like english language. 
+Code, Infrastructure, background agnostic 
+
+
